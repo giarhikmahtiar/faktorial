@@ -18,7 +18,7 @@ public class Jurnal2 {
 
         for(int i=n; i>=1; i--){
             for(int k=1; k<=n-i; k++){
-                System.out.print(" ");
+                System.out.print("0");
             }
             for(int j=i*2; j>=1; j--){
                 System.out.print("*");
